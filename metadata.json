@@ -1,0 +1,6 @@
+{
+  "name": "NETWALL",
+  "description": "Combined VPN and firewall for real-time network control, keeping service ports offline without blocking internet access, detecting local network issues, blocking background data-stealing apps, and scanning QR, image, and malformed emoji metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

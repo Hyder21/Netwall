@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NETWALL</string>
+    <string name="vpn_notification_channel_name">NETWALL VPN Firewall</string>
+    <string name="vpn_notification_channel_desc">Shows live status of NETWALL combined VPN and firewall protection</string>
+    <string name="threat_notification_channel_name">Security Alerts</string>
+    <string name="threat_notification_channel_desc">Alerts when port probes, local network issues, or data theft attempts are detected</string>
+    <string name="vpn_active_title">NETWALL VPN + Firewall Active</string>
+    <string name="vpn_active_subtitle">Ports offline • Local network monitor active • Internet unrestricted</string>
+    <string name="action_stop_vpn">Disconnect</string>
+    <string name="nav_dashboard">Shield</string>
+    <string name="nav_ports">Defense</string>
+    <string name="nav_firewall">Firewall</string>
+    <string name="nav_scanner">Scanner</string>
+    <string name="nav_traffic">Traffic</string>
+    <string name="nav_threat_dashboard">Threat Dashboard</string>
+    <string name="cd_shield_logo">NETWALL protective shield emblem</string>
+    <string name="cd_hero_banner">NETWALL cyber defense shield protecting network traffic</string>
+    <string name="cd_settings">Open NETWALL security settings</string>
+    <string name="cd_threat_dashboard">Open Threat Dashboard visualizations</string>
+</resources>
